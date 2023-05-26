@@ -17,9 +17,9 @@ button:hover {
 }
 
 .boton-clic {
-    background-color: blue;
+    background-color: rgb(58, 21, 192);
 }
 
 .boton-reiniciar {
-    background-color: red;
+    background-color: rgb(98, 5, 78);
 }
