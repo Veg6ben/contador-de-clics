@@ -23,3 +23,7 @@ button:hover {
 .boton-reiniciar {
     background-color: rgb(98, 5, 78);
 }
+
+.boton-decrementar {
+    background-color: rgb(100, 89, 91);
+}
